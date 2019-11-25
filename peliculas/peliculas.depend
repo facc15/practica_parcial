@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1574685351 source:e:\programacion\practica parciales\programacion\peliculas\peliculas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+	"utn.h"
+
+1574557670 e:\programacion\practica parciales\programacion\peliculas\peliculas\linkedlist.h
+
+1574685108 e:\programacion\practica parciales\programacion\peliculas\peliculas\peliculas.h
+
+1574684038 e:\programacion\practica parciales\programacion\peliculas\peliculas\parser.h
+
+1572916906 e:\programacion\practica parciales\programacion\peliculas\peliculas\utn.h
+
+1574558394 source:e:\programacion\practica parciales\programacion\peliculas\peliculas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574684444 source:e:\programacion\practica parciales\programacion\peliculas\peliculas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+
+1572916906 source:e:\programacion\practica parciales\programacion\peliculas\peliculas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1574685108 source:e:\programacion\practica parciales\programacion\peliculas\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"peliculas.h"
+	"utn.h"
+
+1574684038 e:\programacion\practica parciales\programacion\peliculas\peliculas\controller.h
+
+1574685087 source:e:\programacion\practica parciales\programacion\peliculas\peliculas\peliculas.c
+	"peliculas.h"
+	"utn.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1574714538 source:g:\practica parciales\programacion\peliculas\peliculas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+	"utn.h"
+
+1574703932 g:\practica parciales\programacion\peliculas\peliculas\linkedlist.h
+
+1574702528 g:\practica parciales\programacion\peliculas\peliculas\peliculas.h
+
+1574714746 g:\practica parciales\programacion\peliculas\peliculas\parser.h
+
+1572916906 g:\practica parciales\programacion\peliculas\peliculas\utn.h
+
+1574706648 source:g:\practica parciales\programacion\peliculas\peliculas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574714558 source:g:\practica parciales\programacion\peliculas\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"peliculas.h"
+	"utn.h"
+
+1574702530 g:\practica parciales\programacion\peliculas\peliculas\controller.h
+
+1574684446 source:g:\practica parciales\programacion\peliculas\peliculas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+
+1574706902 source:g:\practica parciales\programacion\peliculas\peliculas\peliculas.c
+	"peliculas.h"
+	"utn.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1572916906 source:g:\practica parciales\programacion\peliculas\peliculas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
